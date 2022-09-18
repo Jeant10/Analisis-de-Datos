@@ -1,0 +1,30 @@
+{
+    "Uvillas":{
+        "David":2,
+        "Ricardo":5,
+        "Melani":7,
+        "Mario":9,
+        "Karla":2
+    },
+    "Peras":{
+        "David":2,
+        "Ricardo":5,
+        "Melani":3,
+        "Mario":1,
+        "Karla":5
+    },
+    "Manzanas":{
+        "David":2,
+        "Ricardo":6,
+        "Melani":3,
+        "Mario":1,
+        "Karla":3
+    },
+    "Fresas":{
+        "David":5,
+        "Ricardo":2,
+        "Melani":1,
+        "Mario":4,
+        "Karla":6
+    }
+}
